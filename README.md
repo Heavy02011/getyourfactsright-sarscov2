@@ -2,7 +2,7 @@
 **Inform - Learn - Act - Share**
 
 My personal collection of useful sources of information &amp; things to do fighting SARS-CoV-2 
-inspired by [Steward Brand](https://twitter.com/@stewardbrand), [Peter Schwartz](https://twitter.com/@peterschwartz2), [Chris Anderson](https://twitter.com/chr1sa), [Whole Earth Catalog](http://wholeearth.com/) and [The Long Now Foundation](https://longnow.org).
+inspired by [Steward Brand](https://twitter.com/@stewardbrand), [Peter Schwartz](https://twitter.com/@peterschwartz2), [Chris Anderson](https://twitter.com/chr1sa), [Whole Earth Catalog](http://wholeearth.com/), [Global Business Network](https://en.wikipedia.org/wiki/Global_Business_Network) and [The Long Now Foundation](https://longnow.org).
 
 ## 1 Information
 ### 1.1 Numbers & Updates
