@@ -12,6 +12,7 @@ my personal collection of useful source of information &amp; things to do fighti
 - [x] World: [The Original Data Source - Johns Hopkins University with cases, deaths, recovered](https://github.com/CSSEGISandData/COVID-19), graphics: 
 [dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 - [x] [Compare growth between countries](https://studylib.net/coronavirus-growth)
+- [x] World: [bnonews.com](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/)
 
 ### 1.2 Prediction
 - [ ] Using Kalman Filter to Predict COVID19 Spread, https://github.com/Rank23/COVID19
