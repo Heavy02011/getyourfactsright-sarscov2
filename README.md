@@ -36,12 +36,13 @@ Written: 09 Mar 2020 by Jeremy Howard and Rachel Thomas](https://www.fast.ai/202
 Big Data Analytics, New Technology, and Proactive Testing
 C. Jason Wang, MD, PhD1,2; Chun Y. Ng, MBA, MPH2; Robert H. Brook, MD, ScD3,4](https://jamanetwork.com/journals/jama/fullarticle/2762689), supplement: [action list](https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jvp200035supp1_prod.pdf?Expires=2147483647&Signature=bIZCLS7ZLWTJd~U~H40JgiEGdFb3ggVUJpBvJ7KdANK7HgK1zaj4uWHvqweGym1nWfO~nXt9Y5i1vX79pF7zjjqfzmJAy3udTdpVVZQe07xnQIPcBMXLwZ5XjgTO8yKFXVIpxsXhrmOu8sGSpKiEmQ86ZCKfOTar7fMAGmUCtjiYVFwf31K3REWAA-r3hZyoZpqz3QKpVgpsRpF9fV9thQCq0~yvbvRKTH4PcoB~CZgmXH7rpVb6bILXQn5zBCphf6pyLAa4zIebUEKfCdCYdSdi9LeIEUsesqsYpNWgHJcr4K1LC0hFlst0RHQz-vZ7I-OvrX~5jel6zjjtuDQzjQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
-### 2.3 History - Spanish flu
+### 2.3 Online Conferences
+- [ ] [COVID-19: The State & Future of Pandemics hosted by Singularity University, Mon, Mar 16, 2020 4:45 PM](https://www.crowdcast.io/e/covid-19-virtual-summit)
+
+### 2.4 History - Spanish flu
 - [ ] [Why the 1918 flu hit some cities harder than others
 An evidence-based list of several lessons worth remembering in the time of coronavirus, SideWalkTalk, Medium](https://link.medium.com/Cr2oZ2VgQ4)
 
-## 2.4 Online Conferences
-- [ ] [COVID-19: The State & Future of Pandemics hosted by Singularity University, Mon, Mar 16, 2020 4:45 PM](https://www.crowdcast.io/e/covid-19-virtual-summit)
 
 ### 2.4 Discussions
 - [x] https://medium.com/@joschabach/flattening-the-curve-is-a-deadly-delusion-eea324fe9727
