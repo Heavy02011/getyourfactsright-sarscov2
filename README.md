@@ -31,7 +31,7 @@ Modest improvements in treatment could make a big difference](https://www.econom
 - [x] [Covid-19, your community, and you — a data science perspective
 Written: 09 Mar 2020 by Jeremy Howard and Rachel Thomas](https://www.fast.ai/2020/03/09/coronavirus/), [german](https://multitudes.github.io/posts/Covid19/)
 - [x] [Coronavirus: Why You Must Act Now Politicians, Community Leaders and Business Leaders: What Should You Do and When? Tomas Pueyo](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
-- [ ] [ECONOMIST: Covid-19 - The politics of pandemics - All governments will struggle. Some will struggle more than others](https://www.economist.com/leaders/2020/03/12/the-politics-of-pandemics)
+- [ ] [Economist: coronavirushub](https://www.economist.com/news/2020/03/11/the-economists-coverage-of-the-coronavirus)
 - [ ] ...
 
 ## 2 Learning from ...
