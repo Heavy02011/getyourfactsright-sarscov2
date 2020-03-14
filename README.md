@@ -11,7 +11,7 @@ personal collection of useful source of information &amp; things to do fighting 
 - [ ] Using Kalman Filter to Predict COVID19 Spread, https://github.com/Rank23/COVID19
 
 ## 3 Learn from other countries
-- [ ] China, Italy: telemedicine etc https://www.tctmd.com/news/covid-19-and-heart-insights-front-lines
+- [ ] FEATURE - COVID-19 and the Heart: Insights From the Front Lines As COVID-19 cases go global, a picture is emerging as to its CV impact and how cardiologists in hard-hit regions are coping. https://www.tctmd.com/news/covid-19-and-heart-insights-front-lines
 
 ## 4 Learn from history - Spanish flu
 - [ ] https://link.medium.com/Cr2oZ2VgQ4
