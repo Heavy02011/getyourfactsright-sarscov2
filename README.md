@@ -4,7 +4,7 @@
 My personal collection of useful sources of information &amp; things to do fight SARS-CoV-2 
 inspired by [Steward Brand](https://twitter.com/@stewardbrand), [Peter Schwartz](https://twitter.com/@peterschwartz2), [Chris Anderson](https://twitter.com/chr1sa), [Whole Earth Catalog](http://wholeearth.com/), [Global Business Network](https://en.wikipedia.org/wiki/Global_Business_Network) and [The Long Now Foundation](https://longnow.org). 
 
-***Disclaimer: Please note that this is just a collection of information to my best knowledge. I did not doublecheck sources, checked whether sources where peer-reviewed, have been falsified after publication or turned out to be false in any way. Please give feedback: what to add, delete, change, highlight, verify! Be aware of people who just claim to be experts or seem to ignore facts.***
+***Disclaimer: Please note that this is just a collection of information to my best knowledge. I'm no expert in this matter, just an ordinary inhabitant willing to something about it. I did not doublecheck sources, checked whether sources where peer-reviewed, have been falsified after publication or turned out to be false in any way. Please give feedback: what to add, delete, change, highlight, verify! Be aware of people who just claim to be experts or seem to ignore facts.***
 
 ## 1 Information
 ### 1.1 Numbers & Updates
