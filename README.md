@@ -1,6 +1,6 @@
 # Awesome List "Get Your Facts Right on SARS-CoV-2"
-### Inform - Learn - Act - Share
-my personal collection of useful sources of information &amp; things to do fighting SARS-CoV-2 
+***Inform - Learn - Act - Share***
+My personal collection of useful sources of information &amp; things to do fighting SARS-CoV-2 
 inspired by [Steward Brand](https://twitter.com/@stewardbrand), [Peter Schwartz](https://twitter.com/@peterschwartz2), [Chris Anderson](https://twitter.com/chr1sa), [Whole Earth Catalog](http://wholeearth.com/) and [The Long Now Foundation](https://longnow.org).
 
 ## 1 Information
@@ -15,8 +15,10 @@ inspired by [Steward Brand](https://twitter.com/@stewardbrand), [Peter Schwartz]
 - [x] World: [bnonews.com](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/)
 - [x] World: [epidemic-stats.com](https://epidemic-stats.com/coronavirus/)
 
-### 1.2 Prediction
+### 1.2 Prediction & Spreading
+- [x] [Genomic epidemiology of hCoV-19](https://www.gisaid.org/epiflu-applications/next-hcov-19-app/)
 - [ ] [Using Kalman Filter to Predict COVID19 Spread](https://github.com/Rank23/COVID19)
+- [ ] ...
 
 ### 1.3 Summaries
 - [x] [Covid-19, your community, and you — a data science perspective
