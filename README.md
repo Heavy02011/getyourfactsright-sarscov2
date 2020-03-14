@@ -11,7 +11,8 @@ personal collection of useful source of information &amp; things to do fighting 
 - [ ] Using Kalman Filter to Predict COVID19 Spread, https://github.com/Rank23/COVID19
 
 ## 3 Summaries
-- [ ] https://multitudes.github.io/posts/Covid19/
+- [x] [Covid-19, your community, and you — a data science perspective
+Written: 09 Mar 2020 by Jeremy Howard and Rachel Thomas](https://www.fast.ai/2020/03/09/coronavirus/), [german](https://multitudes.github.io/posts/Covid19/)
 - [x] Coronavirus: Why You Must Act Now Politicians, Community Leaders and Business Leaders: What Should You Do and When? Tomas Pueyo, https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
 
 ## 4 Personal Action List
