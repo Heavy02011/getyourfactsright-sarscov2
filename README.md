@@ -46,6 +46,7 @@ Written: 09 Mar 2020 by Jeremy Howard and Rachel Thomas](https://www.fast.ai/202
 - [ ] [Response to COVID-19 in Taiwan
 Big Data Analytics, New Technology, and Proactive Testing
 C. Jason Wang, MD, PhD1,2; Chun Y. Ng, MBA, MPH2; Robert H. Brook, MD, ScD3,4](https://jamanetwork.com/journals/jama/fullarticle/2762689), supplement: [action list](https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jvp200035supp1_prod.pdf?Expires=2147483647&Signature=bIZCLS7ZLWTJd~U~H40JgiEGdFb3ggVUJpBvJ7KdANK7HgK1zaj4uWHvqweGym1nWfO~nXt9Y5i1vX79pF7zjjqfzmJAy3udTdpVVZQe07xnQIPcBMXLwZ5XjgTO8yKFXVIpxsXhrmOu8sGSpKiEmQ86ZCKfOTar7fMAGmUCtjiYVFwf31K3REWAA-r3hZyoZpqz3QKpVgpsRpF9fV9thQCq0~yvbvRKTH4PcoB~CZgmXH7rpVb6bILXQn5zBCphf6pyLAa4zIebUEKfCdCYdSdi9LeIEUsesqsYpNWgHJcr4K1LC0hFlst0RHQz-vZ7I-OvrX~5jel6zjjtuDQzjQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+- [ ] [businessinsider.com: Taiwan has only 50 coronavirus cases. Its response to the crisis shows that swift action and widespread healthcare can prevent an outbreak.](https://www.businessinsider.de/international/coronavirus-taiwan-case-study-rapid-response-containment-2020-3/?r=US&IR=T)
 - [ ] ...
 
 ### 2.3 Online Conferences
