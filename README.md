@@ -79,7 +79,7 @@ An evidence-based list of several lessons worth remembering in the time of coron
 ***under construction: there should be more cooler compilations out there in the web***
 
 ### 4.1 Compilations & Awesome Lists
-- [x] https://github.com/soroushchehresa/awesome-coronavirus
+- [x] https://github.com/soroushchehresa/awesome-coronavirus very comprehensive & remarkable collection!
 - [ ] ...
 
 ### 4.2 Orchestration
