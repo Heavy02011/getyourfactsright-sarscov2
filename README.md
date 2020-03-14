@@ -68,7 +68,7 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 - [x] Clean Laptop, Smartphone, Tablet daily
 - [x] Cancel event participation
 - [x] Information: focus on numbers, facts, professionals (like Prof. Christian Drosten)
-- [x] Save elderly, phone regularly & don't visit, offer shopping
+- [x] Save elderly, phone regularly & don't visit, offer shopping, do not hamster buy
 - [ ] Meet with friends outdoor
 - [ ] Prepare online meetups [Connected-Autonomous-Driving](https://www.meetup.com/Connected-Autonomous-Driving/) part of [DIYrobocars](https://diyrobocars.com)
 - [ ] [Participate at Online Conferences e.g. NVIDIA GTC digital](https://www.nvidia.com/en-us/gtc/?ncid=em-targ-77456)
