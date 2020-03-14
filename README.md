@@ -8,7 +8,7 @@ my personal collection of useful source of information &amp; things to do fighti
 - [x] City: [Stuttgart](http://coronavirus.stuttgart.de)
 - [x] Region: [Baden Württemberg](https://sozialministerium.baden-wuerttemberg.de/de/gesundheit-pflege/gesundheitsschutz/infektionsschutz-hygiene/informationen-zu-coronavirus/)
 - [x] Country: [Germany, RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikobewertung.html?nn=13490888)
-- [x] World: [most actual numbers](https://www.worldometers.info/coronavirus/)
+- [x] World: [worldometers.info - most actual numbers](https://www.worldometers.info/coronavirus/)
 - [x] World: [The Original Data Source - John Hopkins University with cases, deaths, recovered](https://github.com/CSSEGISandData/COVID-19), graphics: 
 [dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 - [x] [Compare growth between countries](https://studylib.net/coronavirus-growth)
