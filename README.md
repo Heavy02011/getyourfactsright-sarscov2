@@ -74,6 +74,7 @@ An evidence-based list of several lessons worth remembering in the time of coron
 ### 4.1 Compilations & Awesome Lists
 - [x] [Whole Earth Catalog](http://wholeearth.com/) - tools in general
 - [x] https://github.com/soroushchehresa/awesome-coronavirus
+- [ ] ...
 
 ### 4.2 Orchestration
 - [ ] https://raycast.com
