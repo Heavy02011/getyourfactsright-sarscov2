@@ -25,8 +25,8 @@ Written: 09 Mar 2020 by Jeremy Howard and Rachel Thomas](https://www.fast.ai/202
 
 ## 2 Learning from ...
 ### 2.1 Professionals
-- [x] Daily german SARS-CoV-2 podcast of [Prof Christian Drosten](https://www.ndr.de/nachrichten/info/Coronavirus-Virologe-Drosten-im-NDR-Info-Podcast,podcastcoronavirus100.html) --> [transcripts in german - use google translate!](https://www.ndr.de/nachrichten/info/Coronavirus-Update-Die-Podcast-Folgen-als-Skript,podcastcoronavirus102.html)
-- [ ] Larry Brilliant, The Long Now Foundation
+- [x] [Daily german SARS-CoV-2 podcast of Prof Christian Drosten](https://www.ndr.de/nachrichten/info/Coronavirus-Virologe-Drosten-im-NDR-Info-Podcast,podcastcoronavirus100.html) --> [transcripts in german - use google translate!](https://www.ndr.de/nachrichten/info/Coronavirus-Update-Die-Podcast-Folgen-als-Skript,podcastcoronavirus102.html)
+- [ ] [Sometimes Brilliant in Conversation with Stewart Brand, Larry Brilliant, The Long Now Foundation](https://theinterval.org/salon-talks/02017/feb/21/sometimes-brilliant-conversation-stewart-brand/)
 - [x] Chris Anderson
 - [ ] ...
 
