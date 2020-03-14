@@ -18,11 +18,13 @@ inspired by [Steward Brand](https://twitter.com/@stewardbrand), [Peter Schwartz]
 - [x] World: [bnonews.com](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/)
 - [x] World: [epidemic-stats.com](https://epidemic-stats.com/coronavirus/)
 
-### 1.2 Prediction & Spreading
+### 1.2 Prediction & Spreading & treatment
 - [x] [Genomic epidemiology of hCoV-19](https://www.gisaid.org/epiflu-applications/next-hcov-19-app/)
 - [ ] [Using Kalman Filter to Predict COVID19 Spread](https://github.com/Rank23/COVID19)
 - [ ] [WIRED: How Long Does the Coronavirus Last on Surfaces?
 Researchers looked at how long the virus can survive on cardboard, plastic, and stainless steel, as well as after being aerosolized and suspended in midair.](https://www.wired.com/story/how-long-does-the-coronavirus-last-on-surfaces/)
+- [ ] [ECONOMIST: Understanding SARS-CoV-2 and the drugs that might lessen its power
+Modest improvements in treatment could make a big difference](https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power)
 - [ ] ...
 
 ### 1.3 Summaries
