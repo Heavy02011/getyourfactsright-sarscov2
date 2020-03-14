@@ -1,7 +1,7 @@
 # Awesome List "Get Your Facts Right on SARS-CoV-2"
 ### Inform - Learn - Act - Share
-my personal collection of useful source of information &amp; things to do fighting SARS-CoV-2 
-
+my personal collection of useful sources of information &amp; things to do fighting SARS-CoV-2 
+inspired by [Steward Brand](https://twitter.com/@stewardbrand), [Peter Schwartz](https://twitter.com/@peterschwartz2), [Chris Anderson](https://twitter.com/chr1sa), [Whole Earth Catalog](http://wholeearth.com/) and [The Long Now Foundation](https://longnow.org).
 
 ## 1 Information
 ### 1.1 Numbers & Updates
@@ -28,7 +28,7 @@ Written: 09 Mar 2020 by Jeremy Howard and Rachel Thomas](https://www.fast.ai/202
 ### 2.1 Professionals
 - [x] [Daily german SARS-CoV-2 podcast of Prof. Christian Drosten](https://www.ndr.de/nachrichten/info/Coronavirus-Virologe-Drosten-im-NDR-Info-Podcast,podcastcoronavirus100.html) --> [transcripts in german - use google translate!](https://www.ndr.de/nachrichten/info/Coronavirus-Update-Die-Podcast-Folgen-als-Skript,podcastcoronavirus102.html)
 - [ ] [Sometimes Brilliant in Conversation with Stewart Brand, Larry Brilliant, The Long Now Foundation](https://theinterval.org/salon-talks/02017/feb/21/sometimes-brilliant-conversation-stewart-brand/)
-- [x] [Chris Anderson](https://twitter.com/chr1sa)
+- [x] [Chris Anderson - daily tweets on covid-19 numbers](https://twitter.com/chr1sa)
 - [ ] ...
 
 ### 2.2 Other countries
@@ -72,7 +72,6 @@ An evidence-based list of several lessons worth remembering in the time of coron
 ***under construction: there should be much cooler compilations out there in the web***
 
 ### 4.1 Compilations & Awesome Lists
-- [x] [Whole Earth Catalog](http://wholeearth.com/) - tools in general
 - [x] https://github.com/soroushchehresa/awesome-coronavirus
 - [ ] ...
 
