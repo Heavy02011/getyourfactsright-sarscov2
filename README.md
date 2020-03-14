@@ -16,7 +16,7 @@ my personal collection of useful source of information &amp; things to do fighti
 - [x] World: [epidemic-stats.com](https://epidemic-stats.com/coronavirus/)
 
 ### 1.2 Prediction
-- [ ] Using Kalman Filter to Predict COVID19 Spread, https://github.com/Rank23/COVID19
+- [ ] [Using Kalman Filter to Predict COVID19 Spread](https://github.com/Rank23/COVID19)
 
 ### 1.3 Summaries
 - [x] [Covid-19, your community, and you — a data science perspective
