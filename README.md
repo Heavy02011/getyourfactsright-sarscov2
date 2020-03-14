@@ -11,7 +11,7 @@ inspired by [Steward Brand](https://twitter.com/@stewardbrand), [Peter Schwartz]
 - [x] World: [worldometers.info - most actual numbers](https://www.worldometers.info/coronavirus/)
 - [x] World: [The Original Data Source - Johns Hopkins University with cases, deaths, recovered](https://github.com/CSSEGISandData/COVID-19), graphics: 
 [dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
-- [x] [Compare growth between countries](https://studylib.net/coronavirus-growth)
+- [x] World: [Compare growth between countries](https://studylib.net/coronavirus-growth)
 - [x] World: [bnonews.com](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/)
 - [x] World: [epidemic-stats.com](https://epidemic-stats.com/coronavirus/)
 
@@ -40,14 +40,16 @@ C. Jason Wang, MD, PhD1,2; Chun Y. Ng, MBA, MPH2; Robert H. Brook, MD, ScD3,4](h
 
 ### 2.3 Online Conferences
 - [ ] [COVID-19: The State & Future of Pandemics hosted by Singularity University, Mon, Mar 16, 2020 4:45 PM](https://www.crowdcast.io/e/covid-19-virtual-summit)
+- [ ] ...
 
 ### 2.4 History - Spanish flu
 - [ ] [Why the 1918 flu hit some cities harder than others
 An evidence-based list of several lessons worth remembering in the time of coronavirus, SideWalkTalk, Medium](https://link.medium.com/Cr2oZ2VgQ4)
-
+- [ ] ...
 
 ### 2.4 Discussions
 - [x] https://medium.com/@joschabach/flattening-the-curve-is-a-deadly-delusion-eea324fe9727
+- [ ] ...
 
 ## 3 Actions
 ### 3.1 Personal
@@ -69,7 +71,7 @@ An evidence-based list of several lessons worth remembering in the time of coron
 - [ ] ...
 
 ## 4 Tools
-***under construction: there should be much cooler compilations out there in the web***
+***under construction: there should be more cooler compilations out there in the web***
 
 ### 4.1 Compilations & Awesome Lists
 - [x] https://github.com/soroushchehresa/awesome-coronavirus
@@ -77,9 +79,12 @@ An evidence-based list of several lessons worth remembering in the time of coron
 
 ### 4.2 Orchestration
 - [ ] https://raycast.com
+- [ ] ...
 
 ### 4.3 Video Conferencing
 - [x] http://zoom.us
+- [ ] ...
 
 ### 4.4 Streaming
 - [x] http://twitch.tv
+- [ ] ...
