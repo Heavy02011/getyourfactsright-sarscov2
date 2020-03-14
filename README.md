@@ -2,7 +2,7 @@
 personal collection of useful source of information &amp; things to do fighting SARS-CoV-2 
 
 ## 1 Numbers
-- [ ] cases, deaths, recovered, https://github.com/CSSEGISandData/COVID-19
+- [x] cases, deaths, recovered, https://github.com/CSSEGISandData/COVID-19
 
 ![](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 ![dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
