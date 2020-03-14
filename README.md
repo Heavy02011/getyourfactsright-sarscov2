@@ -1,5 +1,5 @@
 # Awesome List "Get Your Facts Right on SARS-CoV-2"
-### Inform - Learn - Act
+### Inform - Learn - Act - Share
 my personal collection of useful source of information &amp; things to do fighting SARS-CoV-2 
 
 
@@ -66,3 +66,10 @@ An evidence-based list of several lessons worth remembering in the time of coron
 - [x] Offer home office where possible 
 - [ ] ...
 
+## 4 Tools
+### 4.1 Compilations
+- [ ] Whole Earth Catalog
+
+### 4.2 Lists
+### 4.3 Orchestration
+- [ ] https://raycast.com
