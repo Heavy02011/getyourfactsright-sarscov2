@@ -5,6 +5,7 @@ personal collection of useful source of information &amp; things to do fighting 
 - [ ] cases, deaths, recovered, https://github.com/CSSEGISandData/COVID-19
 
 ![](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+![dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 ## 2 Prediction
 - [ ] Using Kalman Filter to Predict COVID19 Spread, https://github.com/Rank23/COVID19
