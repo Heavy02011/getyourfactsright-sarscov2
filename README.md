@@ -22,7 +22,13 @@ personal collection of useful source of information &amp; things to do fighting 
 - [ ] Meet with friends outdoor
 - [ ] Prepare online meetups
 
-## 3 Learn from other countries
+## 5 Professional views
+- [x] Daily german SARS-CoV-2 podcast of Prof Christian Drosten (transcripts )
+- [ ] Larry Brilliant, The Long Now Foundation
+- [x] Chris Anderson
+- [ ] ...
+
+## 6 Learn from other countries
 - [ ] FEATURE - COVID-19 and the Heart: Insights From the Front Lines As COVID-19 cases go global, a picture is emerging as to its CV impact and how cardiologists in hard-hit regions are coping. https://www.tctmd.com/news/covid-19-and-heart-insights-front-lines
 
 ## 4 Learn from history - Spanish flu
