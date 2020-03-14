@@ -67,9 +67,16 @@ An evidence-based list of several lessons worth remembering in the time of coron
 - [ ] ...
 
 ## 4 Tools
-### 4.1 Compilations
-- [ ] Whole Earth Catalog
+***under construction: there should be much cooler compilations out there in the web***
 
-### 4.2 Lists
-### 4.3 Orchestration
+### 4.1 Compilations
+- [x] [Whole Earth Catalog](http://wholeearth.com/)
+
+### 4.2 Orchestration
 - [ ] https://raycast.com
+
+### 4.3 Video Conferencing
+- [x] http://zoom.us
+
+### 4.4 Streaming
+- [x] http://twitch.tv
