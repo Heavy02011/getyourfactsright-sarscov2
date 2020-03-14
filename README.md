@@ -12,6 +12,7 @@ personal collection of useful source of information &amp; things to do fighting 
 
 ## 3 Summaries
 - [ ] https://multitudes.github.io/posts/Covid19/
+- [x] Coronavirus: Why You Must Act Now Politicians, Community Leaders and Business Leaders: What Should You Do and When? Tomas Pueyo, https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
 
 ## 4 Personal Action List
 - [x] Washing hands before/after entering/leaving home, office, toilet.
@@ -31,6 +32,8 @@ personal collection of useful source of information &amp; things to do fighting 
 ## 6 Learn from other countries
 - [ ] FEATURE - COVID-19 and the Heart: Insights From the Front Lines As COVID-19 cases go global, a picture is emerging as to its CV impact and how cardiologists in hard-hit regions are coping. https://www.tctmd.com/news/covid-19-and-heart-insights-front-lines
 
-## 4 Learn from history - Spanish flu
+## 7 Learn from history - Spanish flu
 - [ ] https://link.medium.com/Cr2oZ2VgQ4
 
+## 8 Discussions
+- [x] https://medium.com/@joschabach/flattening-the-curve-is-a-deadly-delusion-eea324fe9727
