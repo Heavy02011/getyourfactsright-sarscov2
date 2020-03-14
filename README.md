@@ -63,7 +63,8 @@ An evidence-based list of several lessons worth remembering in the time of coron
 - [x] Information: focus on numbers, facts, professionals (like Prof. Christian Drosten)
 - [x] Save elderly, phone regularly & don't visit, offer shopping
 - [ ] Meet with friends outdoor
-- [ ] Prepare online meetups [](https://www.meetup.com/Connected-Autonomous-Driving/) part of [](https://diyrobocars.com)
+- [ ] Prepare online meetups [Connected-Autonomous-Driving](https://www.meetup.com/Connected-Autonomous-Driving/) part of [DIYrobocars](https://diyrobocars.com)
+- [ ] [Participate at Online Conferences e.g. NVIDIA GTC digital](https://www.nvidia.com/en-us/gtc/?ncid=em-targ-77456)
 - [ ] ...
 
 ### 3.2 Professional
