@@ -1,6 +1,6 @@
 # Awesome List "Get Your Facts Right on SARS-CoV-2"
 ## Inform - Learn - Act
-### my personal collection of useful source of information &amp; things to do fighting SARS-CoV-2 
+my personal collection of useful source of information &amp; things to do fighting SARS-CoV-2 
 
 
 ## 1 Information
