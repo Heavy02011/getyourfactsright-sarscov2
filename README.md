@@ -1,5 +1,6 @@
 # Awesome List "Get Your Facts Right on SARS-CoV-2"
-***Inform - Learn - Act - Share***
+**Inform - Learn - Act - Share**
+
 My personal collection of useful sources of information &amp; things to do fighting SARS-CoV-2 
 inspired by [Steward Brand](https://twitter.com/@stewardbrand), [Peter Schwartz](https://twitter.com/@peterschwartz2), [Chris Anderson](https://twitter.com/chr1sa), [Whole Earth Catalog](http://wholeearth.com/) and [The Long Now Foundation](https://longnow.org).
 
