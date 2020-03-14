@@ -18,7 +18,7 @@ inspired by [Steward Brand](https://twitter.com/@stewardbrand), [Peter Schwartz]
 - [x] World: [bnonews.com](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/)
 - [x] World: [epidemic-stats.com](https://epidemic-stats.com/coronavirus/)
 
-### 1.2 Prediction & Spreading & treatment
+### 1.2 Prediction, Spreading, Treatment
 - [x] [Genomic epidemiology of hCoV-19](https://www.gisaid.org/epiflu-applications/next-hcov-19-app/)
 - [ ] [Using Kalman Filter to Predict COVID19 Spread](https://github.com/Rank23/COVID19)
 - [ ] [WIRED: How Long Does the Coronavirus Last on Surfaces?
