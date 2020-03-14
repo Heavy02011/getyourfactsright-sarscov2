@@ -56,6 +56,7 @@ An evidence-based list of several lessons worth remembering in the time of coron
 
 ## 3 Actions
 ### 3.1 Personal
+- [x] [Follow recommendations of RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
 - [x] Washing hands before/after entering/leaving home, office, toilet.
 - [x] Clean door handles after washing hands
 - [x] Clean Laptop, Smartphone, Tablet daily
