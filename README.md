@@ -15,7 +15,12 @@ personal collection of useful source of information &amp; things to do fighting 
 
 ## 4 Personal Action List
 - [x] Washing hands before/after entering/leaving home, office, toilet.
+- [x] Clean door handles after washing hands
+- [x] Clean Laptop, Smartphone, Tablet daily
 - [x] Cancel event participation
+- [x] Information: focus on numbers, facts, professionals (like Prof. Christian Drosten)
+- [ ] Meet with friends outdoor
+- [ ] Prepare online meetups
 
 ## 3 Learn from other countries
 - [ ] FEATURE - COVID-19 and the Heart: Insights From the Front Lines As COVID-19 cases go global, a picture is emerging as to its CV impact and how cardiologists in hard-hit regions are coping. https://www.tctmd.com/news/covid-19-and-heart-insights-front-lines
