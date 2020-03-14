@@ -23,7 +23,7 @@ personal collection of useful source of information &amp; things to do fighting 
 - [ ] Prepare online meetups
 
 ## 5 Professional views
-- [x] Daily german SARS-CoV-2 podcast of [Prof Christian Drosten](https://www.ndr.de/nachrichten/info/Coronavirus-Virologe-Drosten-im-NDR-Info-Podcast,podcastcoronavirus100.html) (transcripts )
+- [x] Daily german SARS-CoV-2 podcast of [Prof Christian Drosten](https://www.ndr.de/nachrichten/info/Coronavirus-Virologe-Drosten-im-NDR-Info-Podcast,podcastcoronavirus100.html) [transcripts in german - use google translate!](https://www.ndr.de/nachrichten/info/Coronavirus-Update-Die-Podcast-Folgen-als-Skript,podcastcoronavirus102.html)
 - [ ] Larry Brilliant, The Long Now Foundation
 - [x] Chris Anderson
 - [ ] ...
