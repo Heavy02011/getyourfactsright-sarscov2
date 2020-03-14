@@ -27,11 +27,10 @@ Written: 09 Mar 2020 by Jeremy Howard and Rachel Thomas](https://www.fast.ai/202
 - [ ] ...
 
 ### 2.2 Other countries
-- [ ] FEATURE - COVID-19 and the Heart: Insights From the Front Lines As COVID-19 cases go global, a picture is emerging as to its CV impact and how cardiologists in hard-hit regions are coping. https://www.tctmd.com/news/covid-19-and-heart-insights-front-lines
+- [ ] [FEATURE - COVID-19 and the Heart: Insights From the Front Lines As COVID-19 cases go global, a picture is emerging as to its CV impact and how cardiologists in hard-hit regions are coping.](https://www.tctmd.com/news/covid-19-and-heart-insights-front-lines)
 - [ ] [Response to COVID-19 in Taiwan
 Big Data Analytics, New Technology, and Proactive Testing
-C. Jason Wang, MD, PhD1,2; Chun Y. Ng, MBA, MPH2; Robert H. Brook, MD, ScD3,4]
- (https://jamanetwork.com/journals/jama/fullarticle/2762689), supplement: [action list](https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jvp200035supp1_prod.pdf?Expires=2147483647&Signature=bIZCLS7ZLWTJd~U~H40JgiEGdFb3ggVUJpBvJ7KdANK7HgK1zaj4uWHvqweGym1nWfO~nXt9Y5i1vX79pF7zjjqfzmJAy3udTdpVVZQe07xnQIPcBMXLwZ5XjgTO8yKFXVIpxsXhrmOu8sGSpKiEmQ86ZCKfOTar7fMAGmUCtjiYVFwf31K3REWAA-r3hZyoZpqz3QKpVgpsRpF9fV9thQCq0~yvbvRKTH4PcoB~CZgmXH7rpVb6bILXQn5zBCphf6pyLAa4zIebUEKfCdCYdSdi9LeIEUsesqsYpNWgHJcr4K1LC0hFlst0RHQz-vZ7I-OvrX~5jel6zjjtuDQzjQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+C. Jason Wang, MD, PhD1,2; Chun Y. Ng, MBA, MPH2; Robert H. Brook, MD, ScD3,4](https://jamanetwork.com/journals/jama/fullarticle/2762689), supplement: [action list](https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jvp200035supp1_prod.pdf?Expires=2147483647&Signature=bIZCLS7ZLWTJd~U~H40JgiEGdFb3ggVUJpBvJ7KdANK7HgK1zaj4uWHvqweGym1nWfO~nXt9Y5i1vX79pF7zjjqfzmJAy3udTdpVVZQe07xnQIPcBMXLwZ5XjgTO8yKFXVIpxsXhrmOu8sGSpKiEmQ86ZCKfOTar7fMAGmUCtjiYVFwf31K3REWAA-r3hZyoZpqz3QKpVgpsRpF9fV9thQCq0~yvbvRKTH4PcoB~CZgmXH7rpVb6bILXQn5zBCphf6pyLAa4zIebUEKfCdCYdSdi9LeIEUsesqsYpNWgHJcr4K1LC0hFlst0RHQz-vZ7I-OvrX~5jel6zjjtuDQzjQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
 ### 2.3 History - Spanish flu
 - [ ] [Why the 1918 flu hit some cities harder than others
