@@ -54,8 +54,10 @@ C. Jason Wang, MD, PhD1,2; Chun Y. Ng, MBA, MPH2; Robert H. Brook, MD, ScD3,4](h
 An evidence-based list of several lessons worth remembering in the time of coronavirus, SideWalkTalk, Medium](https://link.medium.com/Cr2oZ2VgQ4)
 - [ ] ...
 
-### 2.4 Discussions
+### 2.4 Discussions & Questions
 - [x] https://medium.com/@joschabach/flattening-the-curve-is-a-deadly-delusion-eea324fe9727
+- [ ] [WIRED: What's Social Distancing? Flattening the Curve? Your Covid-19 Questions, Answered.
+Everything you need to know about the coronavirus.](https://www.wired.com/story/whats-social-distancing-flattening-curve-covid-19-questions/)
 - [ ] ...
 
 ## 3 Actions
