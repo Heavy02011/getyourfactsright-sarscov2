@@ -6,6 +6,11 @@ inspired by [Steward Brand](https://twitter.com/@stewardbrand), [Peter Schwartz]
 
 ***Disclaimer: Please note that this is just a collection of information to my best knowledge. I'm no expert in this matter, just an ordinary inhabitant willing to something within personal reach. I did not doublecheck sources, checked whether sources were peer-reviewed, have been falsified after publication or turned out to be false in any way. Please give feedback: what to add, delete, change, highlight, verify! Be aware of people who just claim to be experts or seem to ignore facts.***
 
+## 0 Why?
+- [x] ["Es geht nicht mehr darum, zu verhindern, dass Menschen mit dem #Virus zusammenkommen. 
+Das ist eine #Pandemie. Sie ist nicht mehr zu stoppen. Es geht um die Verlangsamung. 
+#coronavirus #WHO", ZDF, March 14th, 2020](https://twitter.com/heutejournal/status/1238953689760641027?s=21) in german
+
 ## 1 Information
 ### 1.1 Numbers & Updates
 - [x] City: [Stuttgart](http://coronavirus.stuttgart.de)
