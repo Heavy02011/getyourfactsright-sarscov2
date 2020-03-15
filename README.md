@@ -105,8 +105,8 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 - [x] http://twitch.tv
 - [ ] ...
 
-### 4.4 Desease Modeling
-- [ ] [institute for desease modeling](http://idmod.org)
+### 4.4 Disease Modeling
+- [ ] [institute for disease modeling](http://idmod.org)
 - [ ] ...
 
 
