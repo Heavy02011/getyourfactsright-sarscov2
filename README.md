@@ -61,9 +61,10 @@ C. Jason Wang, MD, PhD1,2; Chun Y. Ng, MBA, MPH2; Robert H. Brook, MD, ScD3,4](h
 - [ ] [COVID-19: The State & Future of Pandemics hosted by Singularity University, Mon, Mar 16, 2020 4:45 PM](https://www.crowdcast.io/e/covid-19-virtual-summit)
 - [ ] ...
 
-### 2.4 History - Spanish flu
+### 2.4 History, e.g. Spanish flu
 - [ ] [Why the 1918 flu hit some cities harder than others
 An evidence-based list of several lessons worth remembering in the time of coronavirus, SideWalkTalk, Medium](https://link.medium.com/Cr2oZ2VgQ4)
+- [ ] [Visualizing the History of Pandemics](https://www.visualcapitalist.com/history-of-pandemics-deadliest/)
 - [ ] ...
 
 ### 2.4 Discussions & Questions
