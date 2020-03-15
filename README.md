@@ -106,7 +106,7 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 - [ ] ...
 
 ### 4.4 Disease Modeling
-- [ ] [institute for disease modeling](http://idmod.org)
+- [ ] [institute for disease modeling](http://idmod.org), [source:tweet](https://twitter.com/idmod_org/status/1237881591784865793?s=21)! ![]()
 - [ ] ...
 
 
