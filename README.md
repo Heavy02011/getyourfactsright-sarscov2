@@ -79,6 +79,9 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 - [ ] [Participate at Online Conferences e.g. NVIDIA GTC digital](https://www.nvidia.com/en-us/gtc/?ncid=em-targ-77456)
 - [ ] ...
 
+### 3.2 Community, Maker, Open Source & Hardeare
+- [ ] [ULTIMATE MEDICAL HACKATHON: HOW FAST CAN WE DESIGN AND DEPLOY AN OPEN SOURCE VENTILATOR?](https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/)
+
 ### 3.2 Professional
 - [x] Inform staff about video conferencing, online access to company network
 - [x] Ask people to take their Laptops home daily
