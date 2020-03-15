@@ -100,10 +100,13 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 - [ ] https://raycast.com
 - [ ] ...
 
-### 4.3 Video Conferencing
+### 4.3 Video Conferencing, Streaming
 - [x] http://zoom.us
-- [ ] ...
-
-### 4.4 Streaming
 - [x] http://twitch.tv
 - [ ] ...
+
+### 4.4 Desease Modeling
+- [ ] [institute for desease modeling](http://idmod.org)
+- [ ] ...
+
+
