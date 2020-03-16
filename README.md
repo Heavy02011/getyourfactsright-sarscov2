@@ -27,7 +27,7 @@ Das ist eine #Pandemie. Sie ist nicht mehr zu stoppen. Es geht um die Verlangsam
 
 ### 1.2 Prediction, Spreading, Treatment
 - [ ] [Using Kalman Filter to Predict COVID19 Spread](https://github.com/Rank23/COVID19)
-- [ ] [COVID-19 Bayesian growth analysis with PyMC3](https://github.com/twiecki/covid19/blob/master/covid19_growth_bayes.ipynb), [tweet](https://twitter.com/twiecki/status/1238892937314013187?s=21), ![growth prediction/day1=100cases/data March 14th](https://github.com/Heavy02011/getyourfactsright-sarscov2/blob/master/images/FDE1CBEE-9D13-4CE8-ABA7-434D9CE336D2.jpeg)
+- [ ] [COVID-19 Bayesian growth analysis with PyMC3](https://github.com/twiecki/covid19/blob/master/covid19_growth_bayes.ipynb), [tweet, red curves=measured cases as of March 14th plotted over days since 100th case in a country](https://twitter.com/twiecki/status/1238892937314013187?s=21), ![growth prediction/day1=100cases/data March 14th](https://github.com/Heavy02011/getyourfactsright-sarscov2/blob/master/images/FDE1CBEE-9D13-4CE8-ABA7-434D9CE336D2.jpeg)
 - [x] [Genomic epidemiology of hCoV-19](https://www.gisaid.org/epiflu-applications/next-hcov-19-app/)
 - [ ] [WIRED: How Long Does the Coronavirus Last on Surfaces?
 Researchers looked at how long the virus can survive on cardboard, plastic, and stainless steel, as well as after being aerosolized and suspended in midair.](https://www.wired.com/story/how-long-does-the-coronavirus-last-on-surfaces/)
