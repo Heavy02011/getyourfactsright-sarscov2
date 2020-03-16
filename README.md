@@ -96,6 +96,7 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 - [x] Ask people to take their Laptops home daily
 - [x] Avoid personal meetings if not necessary 
 - [x] Offer home office where possible 
+- [ ] ![](https://github.com/Heavy02011/getyourfactsright-sarscov2/blob/master/images/AD5FDD31-061A-43DD-8F18-65181A8FBFE9.jpeg)
 - [ ] ...
 
 ## 4 Tools
