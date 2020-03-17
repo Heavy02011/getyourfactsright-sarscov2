@@ -69,7 +69,7 @@ An evidence-based list of several lessons worth remembering in the time of coron
 
 ### 2.4 Discussions & Questions
 - [x] https://medium.com/@joschabach/flattening-the-curve-is-a-deadly-delusion-eea324fe9727
-update: [model simulator](https://alhill.shinyapps.io/COVID19seir/?fbclid=IwAR2aXJT79M2AmZxMdy8jsiEuSC4i7ijU8Av6oB4dmlZIeJ2VQgL7Tt3QGxA)
+update March 17th: [model simulator](https://alhill.shinyapps.io/COVID19seir/?fbclid=IwAR2aXJT79M2AmZxMdy8jsiEuSC4i7ijU8Av6oB4dmlZIeJ2VQgL7Tt3QGxA), source: [tweet](https://twitter.com/plinz/status/1239768572240334849?s=21)
 - [ ] [WIRED: What's Social Distancing? Flattening the Curve? Your Covid-19 Questions, Answered.
 Everything you need to know about the coronavirus.](https://www.wired.com/story/whats-social-distancing-flattening-curve-covid-19-questions/)
 - [ ] ...
