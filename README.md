@@ -33,6 +33,7 @@ Das ist eine #Pandemie. Sie ist nicht mehr zu stoppen. Es geht um die Verlangsam
 Researchers looked at how long the virus can survive on cardboard, plastic, and stainless steel, as well as after being aerosolized and suspended in midair.](https://www.wired.com/story/how-long-does-the-coronavirus-last-on-surfaces/)
 - [ ] [ECONOMIST: Understanding SARS-CoV-2 and the drugs that might lessen its power
 Modest improvements in treatment could make a big difference](https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power)
+- [ ] [Impact of non-pharmaceutical interventions (NPIs) to reduce COVID- 19 mortality and healthcare demand, Imperial College, March 16th 2020](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
 - [ ] ...
 
 ### 1.3 Summaries
