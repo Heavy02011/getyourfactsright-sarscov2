@@ -106,6 +106,7 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 
 ### 4.1 Compilations & Awesome Lists
 - [x] https://github.com/soroushchehresa/awesome-coronavirus very comprehensive & remarkable collection!
+- [ ] [Singularity University](https://su.org/resources/)
 - [ ] ...
 
 ### 4.2 Orchestration
