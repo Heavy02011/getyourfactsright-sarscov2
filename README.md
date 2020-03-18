@@ -84,9 +84,10 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 - [x] Cancel event participation
 - [x] Information: focus on numbers, facts, professionals (like Prof. Christian Drosten)
 - [x] Save elderly, phone regularly & don't visit, offer shopping, do not hamster buy
-- [ ] Meet with friends outdoor
-- [ ] Prepare online meetups [Connected-Autonomous-Driving](https://www.meetup.com/Connected-Autonomous-Driving/) part of [DIYrobocars](https://diyrobocars.com)
+- [x] Meet with friends outdoor
+- [x] Prepare online meetups [Connected-Autonomous-Driving](https://www.meetup.com/Connected-Autonomous-Driving/) part of [DIYrobocars](https://diyrobocars.com)
 - [ ] [Participate at Online Conferences e.g. NVIDIA GTC digital](https://www.nvidia.com/en-us/gtc/?ncid=em-targ-77456)
+- [ ] [Advice by Eric Rasmussen, Singularity University COVID19](https://github.com/Heavy02011/getyourfactsright-sarscov2/blob/master/images/49AC4558-0DA6-4B64-96A9-04C6AA8E87B5.png)
 - [ ] ...
 
 ### 3.2 Community, Maker, Open Source & Hardware
