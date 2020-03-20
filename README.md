@@ -52,7 +52,7 @@ Written: 09 Mar 2020 by Jeremy Howard and Rachel Thomas](https://www.fast.ai/202
 - [x] [Chris Anderson - daily tweets on covid-19 numbers](https://twitter.com/chr1sa)
 - [ ] [Doccheck: COVID-19: Das neue Symptom
 Es gibt möglicherweise einen Zusammenhang zwischen SARS-CoV-2 und Störungen des Geruchs- und Geschmackssinns. Das haben Mediziner beobachtet.](https://www.doccheck.com/de/detail/articles/25981-covid-19-das-neue-symptom?utm_source=DC-Newsletter&utm_medium=email&utm_campaign=DocCheck-News&utm_content=asset&utm_term=article&sc_src=email_294619&sc_lid=17886995&sc_uid=5ufcZLF8Jg&sc_llid=96128&sc_customer=1b60ba59af0eff2418def747d6700bc7)
-- [ ] [Hendrik Streeck, has been a lot of covid19 patients in NRW, DE. see link above.](https://hiv-forschung.de/streeck)
+- [ ] [Hendrik Streeck, has investigated a lot of covid19 cases in NRW, DE. see link above.](https://hiv-forschung.de/streeck)
 - [ ] ...
 
 ### 2.2 Other countries
