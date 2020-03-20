@@ -42,13 +42,13 @@ Modest improvements in treatment could make a big difference](https://www.econom
 Written: 09 Mar 2020 by Jeremy Howard and Rachel Thomas](https://www.fast.ai/2020/03/09/coronavirus/), [german](https://multitudes.github.io/posts/Covid19/)
 - [x] [Coronavirus: Why You Must Act Now Politicians, Community Leaders and Business Leaders: What Should You Do and When? Tomas Pueyo](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 - [ ] [Economist: coronavirushub](https://www.economist.com/news/2020/03/11/the-economists-coverage-of-the-coronavirus)
-- [ ] [Wired: STEVEN LEVY SCIENCE03.19.2020 02:47 PM, The Doctor Who Helped Defeat Smallpox Explains What's Coming Epidemiologist Larry Brilliant, who warned of pandemic in 2006, says we can beat the novel coronavirus—but first, we need lots more testing.](https://www.wired.com/story/coronavirus-interview-larry-brilliant-smallpox-epidemiologist/)
 - [ ] ...
 
 ## 2 Learning from ...
 ### 2.1 Professionals
 - [x] [Daily german SARS-CoV-2 podcast of Prof. Christian Drosten](https://www.ndr.de/nachrichten/info/Coronavirus-Virologe-Drosten-im-NDR-Info-Podcast,podcastcoronavirus100.html) --> [transcripts in german - use google translate!](https://www.ndr.de/nachrichten/info/Coronavirus-Update-Die-Podcast-Folgen-als-Skript,podcastcoronavirus102.html)
 - [ ] [Sometimes Brilliant in Conversation with Stewart Brand, Larry Brilliant, The Long Now Foundation](https://theinterval.org/salon-talks/02017/feb/21/sometimes-brilliant-conversation-stewart-brand/)
+- [ ] [Wired: STEVEN LEVY SCIENCE03.19.2020 02:47 PM, The Doctor Who Helped Defeat Smallpox Explains What's Coming Epidemiologist Larry Brilliant, who warned of pandemic in 2006, says we can beat the novel coronavirus—but first, we need lots more testing.](https://www.wired.com/story/coronavirus-interview-larry-brilliant-smallpox-epidemiologist/)
 - [x] [Chris Anderson - daily tweets on covid-19 numbers](https://twitter.com/chr1sa)
 - [ ] ...
 
