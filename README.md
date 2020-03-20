@@ -62,7 +62,7 @@ C. Jason Wang, MD, PhD1,2; Chun Y. Ng, MBA, MPH2; Robert H. Brook, MD, ScD3,4](h
 
 ### 2.3 Online Conferences, hackathons
 - [ ] [COVID-19: The State & Future of Pandemics hosted by Singularity University, Mon, Mar 16, 2020 4:45 PM](https://www.crowdcast.io/e/covid-19-virtual-summit)
-- [ ] [https://wirvsvirushackathon.org](https://wirvsvirushackathon.org)
+- [ ] [Online Hackathon wirvsvirushackathon.org, March 20-22, 2020](https://wirvsvirushackathon.org)
 - [ ] ...
 
 ### 2.4 History
