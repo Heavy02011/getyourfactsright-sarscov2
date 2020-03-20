@@ -42,6 +42,7 @@ Modest improvements in treatment could make a big difference](https://www.econom
 Written: 09 Mar 2020 by Jeremy Howard and Rachel Thomas](https://www.fast.ai/2020/03/09/coronavirus/), [german](https://multitudes.github.io/posts/Covid19/)
 - [x] [Coronavirus: Why You Must Act Now Politicians, Community Leaders and Business Leaders: What Should You Do and When? Tomas Pueyo](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 - [ ] [Economist: coronavirushub](https://www.economist.com/news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+- [ ] [Wired: STEVEN LEVY SCIENCE03.19.2020 02:47 PM, The Doctor Who Helped Defeat Smallpox Explains What's Coming Epidemiologist Larry Brilliant, who warned of pandemic in 2006, says we can beat the novel coronavirus—but first, we need lots more testing.](https://www.wired.com/story/coronavirus-interview-larry-brilliant-smallpox-epidemiologist/)
 - [ ] ...
 
 ## 2 Learning from ...
