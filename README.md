@@ -47,12 +47,12 @@ Written: 09 Mar 2020 by Jeremy Howard and Rachel Thomas](https://www.fast.ai/202
 ## 2 Learning from ...
 ### 2.1 Professionals
 - [x] [Daily german SARS-CoV-2 podcast of Prof. Christian Drosten](https://www.ndr.de/nachrichten/info/Coronavirus-Virologe-Drosten-im-NDR-Info-Podcast,podcastcoronavirus100.html) --> [transcripts in german - use google translate!](https://www.ndr.de/nachrichten/info/Coronavirus-Update-Die-Podcast-Folgen-als-Skript,podcastcoronavirus102.html)
-- [ ] [Sometimes Brilliant in Conversation with Stewart Brand, Larry Brilliant, The Long Now Foundation](https://theinterval.org/salon-talks/02017/feb/21/sometimes-brilliant-conversation-stewart-brand/)
-- [ ] [Wired: STEVEN LEVY SCIENCE03.19.2020 02:47 PM, The Doctor Who Helped Defeat Smallpox Explains What's Coming Epidemiologist Larry Brilliant, who warned of pandemic in 2006, says we can beat the novel coronavirus—but first, we need lots more testing.](https://www.wired.com/story/coronavirus-interview-larry-brilliant-smallpox-epidemiologist/)
+- [x] [Sometimes Brilliant in Conversation with Stewart Brand, Larry Brilliant, The Long Now Foundation](https://theinterval.org/salon-talks/02017/feb/21/sometimes-brilliant-conversation-stewart-brand/)
+- [x] [Wired: STEVEN LEVY SCIENCE03.19.2020 02:47 PM, The Doctor Who Helped Defeat Smallpox Explains What's Coming Epidemiologist Larry Brilliant, who warned of pandemic in 2006, says we can beat the novel coronavirus—but first, we need lots more testing.](https://www.wired.com/story/coronavirus-interview-larry-brilliant-smallpox-epidemiologist/)
 - [x] [Chris Anderson - daily tweets on covid-19 numbers](https://twitter.com/chr1sa)
 - [ ] [Doccheck: COVID-19: Das neue Symptom
 Es gibt möglicherweise einen Zusammenhang zwischen SARS-CoV-2 und Störungen des Geruchs- und Geschmackssinns. Das haben Mediziner beobachtet.](https://www.doccheck.com/de/detail/articles/25981-covid-19-das-neue-symptom?utm_source=DC-Newsletter&utm_medium=email&utm_campaign=DocCheck-News&utm_content=asset&utm_term=article&sc_src=email_294619&sc_lid=17886995&sc_uid=5ufcZLF8Jg&sc_llid=96128&sc_customer=1b60ba59af0eff2418def747d6700bc7)
-- [ ] [Hendrik Streeck, has investigated a lot of covid19 cases in NRW, DE. see link above.](https://hiv-forschung.de/streeck)
+- [x] [Hendrik Streeck, has investigated a lot of covid19 cases in NRW, DE. see link above.](https://hiv-forschung.de/streeck)
 - [ ] ...
 
 ### 2.2 Other countries
