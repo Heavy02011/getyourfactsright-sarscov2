@@ -59,8 +59,9 @@ C. Jason Wang, MD, PhD1,2; Chun Y. Ng, MBA, MPH2; Robert H. Brook, MD, ScD3,4](h
 - [ ] [businessinsider.com: Taiwan has only 50 coronavirus cases. Its response to the crisis shows that swift action and widespread healthcare can prevent an outbreak.](https://www.businessinsider.de/international/coronavirus-taiwan-case-study-rapid-response-containment-2020-3/?r=US&IR=T)
 - [ ] ...
 
-### 2.3 Online Conferences
+### 2.3 Online Conferences, hackathons
 - [ ] [COVID-19: The State & Future of Pandemics hosted by Singularity University, Mon, Mar 16, 2020 4:45 PM](https://www.crowdcast.io/e/covid-19-virtual-summit)
+- [ ] [https://wirvsvirushackathon.org](https://wirvsvirushackathon.org)
 - [ ] ...
 
 ### 2.4 History
