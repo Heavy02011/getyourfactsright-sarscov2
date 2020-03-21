@@ -41,6 +41,7 @@ Modest improvements in treatment could make a big difference](https://www.econom
 - [x] [Covid-19, your community, and you — a data science perspective
 Written: 09 Mar 2020 by Jeremy Howard and Rachel Thomas](https://www.fast.ai/2020/03/09/coronavirus/), [german](https://multitudes.github.io/posts/Covid19/)
 - [x] [Coronavirus: Why You Must Act Now Politicians, Community Leaders and Business Leaders: What Should You Do and When? Tomas Pueyo](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
+- [ ] [Why the Coronavirus Has Been So Successful](https://www.theatlantic.com/science/archive/2020/03/biography-new-coronavirus/608338/)
 - [ ] [Economist: coronavirushub](https://www.economist.com/news/2020/03/11/the-economists-coverage-of-the-coronavirus)
 - [ ] ...
 
