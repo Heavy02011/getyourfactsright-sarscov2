@@ -144,3 +144,4 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 ## 4.7 Initiatives, Platform
 - [ ] [wirvsvirushack: corononapathfinder.org](coronapathfinder.org)
 - [ ] [help farmers harvesting](https://www.daslandhilft.de)
+- [ ] [connect local stores to sell online](https://www.stuttgartsindwir.de)
