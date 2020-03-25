@@ -104,6 +104,7 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 ### 3.2 Community, Maker, Open Source & Hardware
 - [ ] [ULTIMATE MEDICAL HACKATHON: HOW FAST CAN WE DESIGN AND DEPLOY AN OPEN SOURCE VENTILATOR?](https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/)
 - [x] ["Open Source COVID19 Medical Supplies", Facebook Group > 2700 members as of March 15th, 2020](https://www.facebook.com/groups/670932227050506/about/)
+- [ ] [Call for Code 2020, IBM](https://developer.ibm.com/callforcode/blogs/the-2020-call-for-code-global-challenge-takes-on-covid-19)
 
 ### 3.3 Professional
 - [x] Inform staff about video conferencing, online access to company network
