@@ -147,6 +147,7 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 - [ ] [wirvsvirushack: corononapathfinder.org](coronapathfinder.org)
 - [ ] [help farmers harvesting](https://www.daslandhilft.de)
 - [ ] [connect local stores to sell online](https://www.stuttgartsindwir.de)
+- [ ] [WhatsLevt](https://github.com/WVV-Crowd-Sourced-Stock-Tracking/)
 
 ## 4.8 3D-Printing
 - [ ] [3d-printed-adapter-snorkelling-mask-into-ventilator](https://futurism.com/3d-printed-adapter-snorkelling-mask-into-ventilator)
