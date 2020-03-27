@@ -157,7 +157,7 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 ## 4.9 Open Source/Hardware Medical Devices
 - [ ] [https://open-source-covid-19-ventilator-canada.mn.co](https://open-source-covid-19-ventilator-canada.mn.co)
 - [ ] [Analysis of Open Source COVID-19 Pandemic Ventilator Projects](https://link.medium.com/YiettqzTc5)
-- [ ] [https://devpost.com/software/diy-beatmungsgerat](https://devpost.com/software/diy-beatmungsgerat)
+- [ ] [https://devpost.com/software/diy-beatmungsgerat](https://devpost.com/software/diy-beatmungsgerat) https://www.heise.de/hintergrund/WirVsVirus-Beatmungsgeraet-im-Eigenbau-4690584.html
 
 ## 4.10 masks
 - [ ] [https://youtu.be/hL4a0dmdBMI](https://youtu.be/hL4a0dmdBMI)
