@@ -123,6 +123,7 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 - [x] [Singularity University](https://su.org/resources/)
 - [ ] [Food Safety](https://www.seriouseats.com/2020/03/food-safety-and-coronavirus-a-comprehensive-guide.html), source: [Adam Savage:](https://twitter.com/donttrythis/status/1241252819077758977?s=21)
 - [ ] [pharmacies in Germany](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/2a1d004868664b56944fba3564d7ae26_0) source: slack channel of hackathon #wirvsvirushack
+- [ ] [http://open-source-covid-19.weileizeng.com ] (http://open-source-covid-19.weileizeng.com)
 - [ ] ...
 
 ### 4.2 Orchestration
