@@ -152,3 +152,6 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 
 ## 4.8 3D-Printing
 - [ ] [3d-printed-adapter-snorkelling-mask-into-ventilator](https://futurism.com/3d-printed-adapter-snorkelling-mask-into-ventilator)
+
+## 4.9 Open Source/Hardware Medical Devices
+- [ ] [https://open-source-covid-19-ventilator-canada.mn.co](https://open-source-covid-19-ventilator-canada.mn.co)
