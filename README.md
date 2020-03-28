@@ -161,3 +161,6 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 
 ## 4.10 masks
 - [ ] [https://youtu.be/hL4a0dmdBMI](https://youtu.be/hL4a0dmdBMI)
+
+## 4.11 Covid-19 Tests
+- [ ] [Abbott-Launches-Molecular-Point-of-Care-Test-to-Detect-Novel-Coronavirus-in-as-Little-as-Five-Minutes](https://abbott.mediaroom.com/2020-03-27-Abbott-Launches-Molecular-Point-of-Care-Test-to-Detect-Novel-Coronavirus-in-as-Little-as-Five-Minutes)
