@@ -17,7 +17,7 @@ Das ist eine #Pandemie. Sie ist nicht mehr zu stoppen. Es geht um die Verlangsam
 ## 1 Information
 ### 1.1 Numbers & Updates
 - [x] City: [Stuttgart](http://coronavirus.stuttgart.de)
-- [x] Region: [Baden Württemberg](https://sozialministerium.baden-wuerttemberg.de/de/gesundheit-pflege/gesundheitsschutz/infektionsschutz-hygiene/informationen-zu-coronavirus/), [Rems-Murr-Kreis](https://www.rems-murr-kreis.de/jugend-gesundheit-soziales/gesundheit/coronavirus-aktuelle-informationen/)
+- [x] Region: [Baden Württemberg](https://sozialministerium.baden-wuerttemberg.de/de/gesundheit-pflege/gesundheitsschutz/infektionsschutz-hygiene/informationen-zu-coronavirus/), [Rems-Murr-Kreis](https://www.rems-murr-kreis.de/jugend-gesundheit-soziales/gesundheit/coronavirus-aktuelle-informationen/), [SWR](https://www.swr.de/swraktuell/flatten-the-curve-104.html)
 - [x] Country: [Germany/RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikobewertung.html?nn=13490888), [Virustracker](https://thevirustracker.com/germany-coronavirus-information-de)
 - [x] World: [worldometers.info - most actual numbers](https://www.worldometers.info/coronavirus/)
 - [x] World: [The Original Data Source - Johns Hopkins University with cases, deaths, recovered](https://github.com/CSSEGISandData/COVID-19), graphics: 
