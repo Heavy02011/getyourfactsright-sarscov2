@@ -159,7 +159,7 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 - [ ] [Analysis of Open Source COVID-19 Pandemic Ventilator Projects](https://link.medium.com/YiettqzTc5), [github](https://github.com/PubInv/covid19-vent-list)
 - [ ] [https://devpost.com/software/diy-beatmungsgerat](https://devpost.com/software/diy-beatmungsgerat) https://www.heise.de/hintergrund/WirVsVirus-Beatmungsgeraet-im-Eigenbau-4690584.html
 
-## 4.10 masks
+## 4.10 Masks
 - [ ] [https://youtu.be/hL4a0dmdBMI](https://youtu.be/hL4a0dmdBMI)
 
 ## 4.11 Covid-19 Tests
