@@ -40,6 +40,7 @@ Modest improvements in treatment could make a big difference](https://www.econom
 - [ ] [Simulator http://covidsim.eu](http://covidsim.eu)
 - [ ] [CDC: Public Health Responses to COVID-19 Outbreaks on Cruise Ships — Worldwide, February–March 2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6912e3.htm)
 - [ ] [The Lancet: Rational use of face masks in the COVID-19 pandemic](https://www.thelancet.com/action/showPdf?pii=S2213-2600%2820%2930134-X)
+- [ ] [https://quillette.com/2020/03/27/covid-19-science-update-for-march-27-super-spreaders-and-the-need-for-new-prediction-models/](https://quillette.com/2020/03/27/covid-19-science-update-for-march-27-super-spreaders-and-the-need-for-new-prediction-models/)
 - [ ] ...
 
 ### 1.3 Summaries
