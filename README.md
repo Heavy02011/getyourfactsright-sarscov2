@@ -39,6 +39,7 @@ Modest improvements in treatment could make a big difference](https://www.econom
 - [ ] [Impact of non-pharmaceutical interventions (NPIs) to reduce COVID- 19 mortality and healthcare demand, Imperial College, March 16th 2020](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
 - [ ] [Simulator http://covidsim.eu](http://covidsim.eu)
 - [ ] [CDC: Public Health Responses to COVID-19 Outbreaks on Cruise Ships — Worldwide, February–March 2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6912e3.htm)
+- [ ] [The Lancet: Rational use of face masks in the COVID-19 pandemic](https://www.thelancet.com/action/showPdf?pii=S2213-2600%2820%2930134-X)
 - [ ] ...
 
 ### 1.3 Summaries
