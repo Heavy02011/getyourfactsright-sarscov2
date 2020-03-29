@@ -162,6 +162,8 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 - [ ] [https://devpost.com/software/diy-beatmungsgerat](https://devpost.com/software/diy-beatmungsgerat) https://www.heise.de/hintergrund/WirVsVirus-Beatmungsgeraet-im-Eigenbau-4690584.html
 - [ ] [YACoVV Ventilator](https://github.com/auenkind/YACoVV/)
 - [ ] [https://e-vent.mit.edu](https://e-vent.mit.edu)
+- [ ] [https://oxvent.org](https://oxvent.org)
+
 ## 4.10 Masks
 - [ ] [https://youtu.be/hL4a0dmdBMI](https://youtu.be/hL4a0dmdBMI)
 - [ ] [https://makermask.org](https://makermask.org)
