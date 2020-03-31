@@ -128,6 +128,7 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 - [ ] [pharmacies in Germany](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/2a1d004868664b56944fba3564d7ae26_0) source: slack channel of hackathon #wirvsvirushack
 - [ ] [http://open-source-covid-19.weileizeng.com ] (http://open-source-covid-19.weileizeng.com)
 - [ ] [coronavz](http://coronavz.com/)
+- [ ] [Free DIN Covid-19 standards](https://www.din.de/en/din-and-our-partners/press/press-releases/covid-19-din-makes-standards-for-medical-equipment-available-708628)
 - [ ] ...
 
 ### 4.2 Orchestration
