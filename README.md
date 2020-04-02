@@ -175,3 +175,6 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 
 ## 4.11 Covid-19 Tests
 - [ ] [Abbott-Launches-Molecular-Point-of-Care-Test-to-Detect-Novel-Coronavirus-in-as-Little-as-Five-Minutes](https://abbott.mediaroom.com/2020-03-27-Abbott-Launches-Molecular-Point-of-Care-Test-to-Detect-Novel-Coronavirus-in-as-Little-as-Five-Minutes)
+
+## &.12 Covid-19 Handbooks
+- [ ] [Chinas Covid-19 Handbook](https://www.wienerzeitung.at/nachrichten/wissen/mensch/2055834-Covid-19-Handbuch-zum-Download.html)
