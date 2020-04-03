@@ -176,6 +176,7 @@ ID da vaquinha: 958770](https://www.vakinha.com.br/vaquinha/acelerar-o-desenvolv
 ## 4.10 Masks
 - [ ] [https://youtu.be/hL4a0dmdBMI](https://youtu.be/hL4a0dmdBMI)
 - [ ] [https://makermask.org](https://makermask.org)
++ [ ] [Respiratory virus shedding in exhaled breath and efficacy of face masks](https://www.nature.com/articles/s41591-020-0843-2)
 
 ## 4.11 Covid-19 Tests
 - [ ] [Abbott-Launches-Molecular-Point-of-Care-Test-to-Detect-Novel-Coronavirus-in-as-Little-as-Five-Minutes](https://abbott.mediaroom.com/2020-03-27-Abbott-Launches-Molecular-Point-of-Care-Test-to-Detect-Novel-Coronavirus-in-as-Little-as-Five-Minutes)
