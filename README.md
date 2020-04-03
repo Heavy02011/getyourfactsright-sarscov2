@@ -152,6 +152,7 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 
 ## 4.6 Data Analysis
 - [ ] [A Note on the Evolution of Covid-19 in Italy](https://arxiv.org/abs/2003.08684)
+- [ ] [Google: See how your community is moving around differently due to COVID-19](https://www.google.com/covid19/mobility/)
 
 ## 4.7 Initiatives, Platform
 - [ ] [wirvsvirushack: corononapathfinder.org](coronapathfinder.org)
