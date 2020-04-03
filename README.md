@@ -170,6 +170,8 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 - [ ] [https://e-vent.mit.edu](https://e-vent.mit.edu)
 - [ ] [https://oxvent.org](https://oxvent.org)
 - [ ] [https://www.oxygen.protofy.xyz](https://www.oxygen.protofy.xyz)
+- [ ] [Acelerar o desenvolvimento do respirador OpenSource - COVID19
+ID da vaquinha: 958770](https://www.vakinha.com.br/vaquinha/acelerar-o-desenvolvimento-do-respirador-mecanico-opensource), [github](https://github.com/HPparanhos/CITI-OpenLung)
 
 ## 4.10 Masks
 - [ ] [https://youtu.be/hL4a0dmdBMI](https://youtu.be/hL4a0dmdBMI)
