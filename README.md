@@ -64,6 +64,7 @@ Es gibt möglicherweise einen Zusammenhang zwischen SARS-CoV-2 und Störungen de
 - [x] [Hendrik Streeck, has investigated a lot of covid19 cases in NRW, DE. see link above.](https://hiv-forschung.de/streeck)
 - [ ] [Dennis Carroll](https://khn.org/news/former-federal-virus-hunter-says-u-s-cant-wait-for-new-germs-to-kick-your-door-in/)
 - [ ] [10 week plan US, recommended by Larry Brilliant](https://www.nejm.org/doi/full/10.1056/NEJMe2007263?query=TOC)
+- [ ] [Andrej Karpathy, http://biomed-sanity.com](http://biomed-sanity.com)
 - [ ] ...
 
 ### 2.2 Other countries
