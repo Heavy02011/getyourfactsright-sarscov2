@@ -175,6 +175,7 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 - [ ] [https://www.oxygen.protofy.xyz](https://www.oxygen.protofy.xyz)
 - [ ] [Acelerar o desenvolvimento do respirador OpenSource - COVID19
 ID da vaquinha: 958770](https://www.vakinha.com.br/vaquinha/acelerar-o-desenvolvimento-do-respirador-mecanico-opensource), [github](https://github.com/HPparanhos/CITI-OpenLung)
+- [ ] [Pure Mechanical approach using valves of ambubag and bringing air over a cylinder from the other side powering by a non-circular disk.](https://www.facebook.com/groups/opensourcecovid19medicalsupplies/permalink/690680381742357/])
 
 ## 4.10 Masks
 - [ ] [https://youtu.be/hL4a0dmdBMI](https://youtu.be/hL4a0dmdBMI)
