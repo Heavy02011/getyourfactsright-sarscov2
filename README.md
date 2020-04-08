@@ -151,9 +151,10 @@ Everything you need to know about the coronavirus.](https://www.wired.com/story/
 ## 4.5 Data Collection
 - [ ] [Script to collect data from RKI for Germany](https://github.com/normannexo/COVID-19-RKI)
 
-## 4.6 Data Analysis
+## 4.6 Data Analysis & Modelling
 - [ ] [A Note on the Evolution of Covid-19 in Italy](https://arxiv.org/abs/2003.08684)
 - [ ] [Google: See how your community is moving around differently due to COVID-19](https://www.google.com/covid19/mobility/)
+- [ ] [covid.arena-ai.com](https://covid.arena-ai.com)
 
 ## 4.7 Initiatives, Platform
 - [ ] [wirvsvirushack: corononapathfinder.org](coronapathfinder.org)
