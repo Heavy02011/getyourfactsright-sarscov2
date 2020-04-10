@@ -69,7 +69,7 @@ Es gibt möglicherweise einen Zusammenhang zwischen SARS-CoV-2 und Störungen de
 
 ### To be verified
 
-- [ ] [Hendrik Streeck, has investigated a lot of covid19 cases in NRW, DE. see link above.](https://hiv-forschung.de/streeck] --> [study financed by storymachine/Kai Dickmanns](https://www.zeit.de/wissen/gesundheit/2020-04/heinsberg-studie-coronavirus-hendrik-streeck-storymachine-kai-diekmann/komplettansicht)
+- [ ] [Hendrik Streeck, has investigated a lot of covid19 cases in NRW, DE. see link above.](https://hiv-forschung.de/streeck) --> [study financed by storymachine/Kai Dickmanns](https://www.zeit.de/wissen/gesundheit/2020-04/heinsberg-studie-coronavirus-hendrik-streeck-storymachine-kai-diekmann/komplettansicht)
 
 ### 2.2 Other countries
 - [ ] [FEATURE - COVID-19 and the Heart: Insights From the Front Lines As COVID-19 cases go global, a picture is emerging as to its CV impact and how cardiologists in hard-hit regions are coping.](https://www.tctmd.com/news/covid-19-and-heart-insights-front-lines)
