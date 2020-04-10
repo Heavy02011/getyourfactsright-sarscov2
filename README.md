@@ -59,9 +59,6 @@ Written: 09 Mar 2020 by Jeremy Howard and Rachel Thomas](https://www.fast.ai/202
 - [x] [Wired: STEVEN LEVY SCIENCE03.19.2020 02:47 PM, The Doctor Who Helped Defeat Smallpox Explains What's Coming Epidemiologist Larry Brilliant, who warned of pandemic in 2006, says we can beat the novel coronavirus—but first, we need lots more testing.](https://www.wired.com/story/coronavirus-interview-larry-brilliant-smallpox-epidemiologist/)
 - [ ] [Larry Brilliant Helped to Eradicate Smallpox—and He Has Advice for COVID-19](https://www.scientificamerican.com/article/larry-brilliant-helped-to-eradicate-smallpox-and-he-has-advice-for-covid-19/)
 - [x] [Chris Anderson - daily tweets on covid-19 numbers](https://twitter.com/chr1sa)
-- [ ] [Doccheck: COVID-19: Das neue Symptom
-Es gibt möglicherweise einen Zusammenhang zwischen SARS-CoV-2 und Störungen des Geruchs- und Geschmackssinns. Das haben Mediziner beobachtet.](https://www.doccheck.com/de/detail/articles/25981-covid-19-das-neue-symptom?utm_source=DC-Newsletter&utm_medium=email&utm_campaign=DocCheck-News&utm_content=asset&utm_term=article&sc_src=email_294619&sc_lid=17886995&sc_uid=5ufcZLF8Jg&sc_llid=96128&sc_customer=1b60ba59af0eff2418def747d6700bc7)
-
 - [ ] [Dennis Carroll](https://khn.org/news/former-federal-virus-hunter-says-u-s-cant-wait-for-new-germs-to-kick-your-door-in/)
 - [ ] [10 week plan US, recommended by Larry Brilliant](https://www.nejm.org/doi/full/10.1056/NEJMe2007263?query=TOC)
 - [ ] [Andrej Karpathy, http://biomed-sanity.com](http://biomed-sanity.com)
@@ -69,6 +66,8 @@ Es gibt möglicherweise einen Zusammenhang zwischen SARS-CoV-2 und Störungen de
 
 ### To be verified
 
+- [ ] [Doccheck: COVID-19: Das neue Symptom
+Es gibt möglicherweise einen Zusammenhang zwischen SARS-CoV-2 und Störungen des Geruchs- und Geschmackssinns. Das haben Mediziner beobachtet.](https://www.doccheck.com/de/detail/articles/25981-covid-19-das-neue-symptom?utm_source=DC-Newsletter&utm_medium=email&utm_campaign=DocCheck-News&utm_content=asset&utm_term=article&sc_src=email_294619&sc_lid=17886995&sc_uid=5ufcZLF8Jg&sc_llid=96128&sc_customer=1b60ba59af0eff2418def747d6700bc7)
 - [ ] [Hendrik Streeck, has investigated a lot of covid19 cases in NRW, DE. see link above.](https://hiv-forschung.de/streeck) --> [study financed by storymachine/Kai Dickmanns](https://www.zeit.de/wissen/gesundheit/2020-04/heinsberg-studie-coronavirus-hendrik-streeck-storymachine-kai-diekmann/komplettansicht)
 
 ### 2.2 Other countries
