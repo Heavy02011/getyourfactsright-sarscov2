@@ -29,7 +29,7 @@ Das ist eine #Pandemie. Sie ist nicht mehr zu stoppen. Es geht um die Verlangsam
 - [x] World: [epidemic-stats.com](https://epidemic-stats.com/coronavirus/)
 - [x] [World Health Organization (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 - [ ] World[https://covidly.com](https://covidly.com)
-- [ ] [Mutation Cases & Projection, Germany](https://docs.google.com/spreadsheets/d/1G-2TAslg1KOOlHayxVd8WMEia2wln02j_OerBHZjpnA/edit#gid=456411865)
+- [ ] [Mutation Cases & Projection, Germany, Cornelius Roemer](https://docs.google.com/spreadsheets/d/1G-2TAslg1KOOlHayxVd8WMEia2wln02j_OerBHZjpnA/edit#gid=456411865)
 
 ### 1.2 Prediction, Spreading, Treatment
 - [ ] [Using Kalman Filter to Predict COVID19 Spread](https://github.com/Rank23/COVID19)
